@@ -33,8 +33,8 @@
     genres.forEach(function (g, i) {
       var hue = Math.round(i * 137.508 + 8) % 360;
       map[g] = {
-        c: "hsl(" + hue + " 42% 32%)",
-        t: "hsl(" + hue + " 48% 94%)"
+        c: "hsl(" + hue + " 38% 34%)",   // testo/etichetta: tono scuro e leggibile
+        t: "hsl(" + hue + " 46% 85%)"    // sfondo copertina: pastello, morbido
       };
     });
     return map;
