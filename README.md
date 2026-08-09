@@ -1,2 +1,0 @@
-# Libri-Gio
-ciao
