@@ -1,11 +1,11 @@
 /* ==========================================================
-   La mia libreria — token system
-   Palette:  paper #FAF8F3 · ink #20241F · muted #746E60
-             accent (link/UI) #2F4A3D · gold (rating) #A8823C
+   La mia libreria â€” token system
+   Palette:  paper #FAF8F3 Â· ink #20241F Â· muted #746E60
+             accent (link/UI) #2F4A3D Â· gold (rating) #A8823C
    Cover hues: forest / oxblood / ink-navy / ochre / walnut / plum
-   Type: Fraunces (display) · Source Serif 4 (body/reviews) · Inter (UI)
+   Type: Fraunces (display) Â· Source Serif 4 (body/reviews) Â· Inter (UI)
 
-   Layout: copertine tipografiche in stile Penguin/Adelphi — un blocco
+   Layout: copertine tipografiche in stile Penguin/Adelphi â€” un blocco
    di colore per genere, titolo orizzontale leggibile, niente testo ruotato.
    ========================================================== */
 
@@ -19,7 +19,6 @@
   --accent: #2f4a3d;
   --accent-soft: rgba(47, 74, 61, 0.1);
   --gold: #a8823c;
-  --cover-text: #f6f2e6;
 
   --font-display: "Fraunces", "Iowan Old Style", serif;
   --font-body: "Source Serif 4", Georgia, serif;
@@ -155,8 +154,9 @@ a, button, input, select { font-family: inherit; }
 .cover {
   position: relative;
   aspect-ratio: 5 / 7.4;
-  background: var(--c, var(--accent));
+  background: var(--t, var(--paper-raised));
   border: none;
+  border-left: 3px solid var(--c, var(--accent));
   border-radius: 4px;
   padding: 18px 16px 16px;
   cursor: pointer;
@@ -164,11 +164,11 @@ a, button, input, select { font-family: inherit; }
   flex-direction: column;
   align-items: flex-start;
   text-align: left;
-  box-shadow: inset 3px 0 0 rgba(0, 0, 0, 0.16), 0 1px 2px rgba(32, 36, 31, 0.12);
+  box-shadow: 0 1px 2px rgba(32, 36, 31, 0.08);
   transition: transform 0.18s ease, box-shadow 0.18s ease;
 }
 
-/* Below ~560px, tall vertical covers stop paying off — two columns of them
+/* Below ~560px, tall vertical covers stop paying off â€” two columns of them
    are cramped and require a lot of scrolling. Switch to compact horizontal
    rows instead: one book per line, everything readable at a glance. */
 @media (max-width: 560px) {
@@ -203,7 +203,7 @@ a, button, input, select { font-family: inherit; }
 @media (prefers-reduced-motion: no-preference) {
   .cover:hover, .cover:focus-visible {
     transform: translateY(-5px);
-    box-shadow: inset 3px 0 0 rgba(0, 0, 0, 0.16), 0 14px 22px rgba(32, 36, 31, 0.24);
+    box-shadow: 0 14px 20px rgba(32, 36, 31, 0.16);
   }
 }
 
@@ -213,8 +213,7 @@ a, button, input, select { font-family: inherit; }
   font-weight: 600;
   letter-spacing: 0.09em;
   text-transform: uppercase;
-  color: var(--cover-text);
-  opacity: 0.75;
+  color: var(--c, var(--accent));
   margin-bottom: auto;
 }
 
@@ -223,7 +222,7 @@ a, button, input, select { font-family: inherit; }
   font-weight: 560;
   font-size: clamp(1rem, 1.6vw + 0.7rem, 1.2rem);
   line-height: 1.18;
-  color: var(--cover-text);
+  color: var(--ink);
   margin: 10px 0 8px;
   display: -webkit-box;
   -webkit-line-clamp: 5;
@@ -234,8 +233,7 @@ a, button, input, select { font-family: inherit; }
 .cover-author {
   font-family: var(--font-ui);
   font-size: 11.5px;
-  color: var(--cover-text);
-  opacity: 0.8;
+  color: var(--muted);
   margin: 0 0 10px;
   overflow: hidden;
   text-overflow: ellipsis;
@@ -254,12 +252,11 @@ a, button, input, select { font-family: inherit; }
 .cover-rating .dot-half {
   width: 6px; height: 6px;
   border-radius: 50%;
-  border: 1px solid var(--cover-text);
-  opacity: 0.9;
+  border: 1px solid var(--gold);
 }
-.cover-rating .dot-full { background: var(--cover-text); }
+.cover-rating .dot-full { background: var(--gold); }
 .cover-rating .dot-empty { background: transparent; }
-.cover-rating .dot-half { background: linear-gradient(90deg, var(--cover-text) 50%, transparent 50%); }
+.cover-rating .dot-half { background: linear-gradient(90deg, var(--gold) 50%, transparent 50%); }
 
 .empty-state {
   font-family: var(--font-body);
