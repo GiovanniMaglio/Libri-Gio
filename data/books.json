@@ -800,33 +800,6 @@
     "genere": "Narrativa straniera"
   },
   {
-    "id": 1752432206,
-    "title": "Le ho mai raccontato del vento del nord",
-    "author": "Glattauer",
-    "rating": 4.5,
-    "review": "Fantastica ambientazione \r\n",
-    "owner": "Ale",
-    "added_on": "2025-07-13T18:43:26.282831"
-  },
-  {
-    "id": 1752441650,
-    "title": "L'amica geniale ",
-    "author": "Ferrante",
-    "rating": 5.0,
-    "review": "Supremo",
-    "owner": "Ale",
-    "added_on": "2025-07-13T21:20:50.305384"
-  },
-  {
-    "id": 1752502566,
-    "title": "Orgoglio e Pregiudizio ",
-    "author": "Jane Austen ",
-    "rating": 5.0,
-    "review": "Brillante, moderno, travolgente. “È una verità universalmente riconosciuta che…” sia un capolavoro immortale ",
-    "owner": "Bia",
-    "added_on": "2025-07-14T14:16:06.831266"
-  },
-  {
     "id": 1755362091,
     "title": "Tropico del Cancro",
     "author": "Henry Miller",
@@ -835,123 +808,6 @@
     "owner": "12",
     "added_on": "2025-08-16T16:34:51.267556",
     "genere": "Narrativa filosofica"
-  },
-  {
-    "id": 1755603906,
-    "title": "Mattatoio N.5 ",
-    "author": "Kurt Vonnegut ",
-    "rating": 5.0,
-    "review": "",
-    "owner": "aliventu",
-    "added_on": "2025-08-19T11:45:06.287053"
-  },
-  {
-    "id": 1755615630,
-    "title": "Sull'Amore",
-    "author": "Herman Hesse",
-    "rating": 4.5,
-    "review": "Una sensazionale raccolta di momenti della filosofia di Hesse, sia in prosa che in poesia. Un inno al sentimento nell'accezione del termine \"sentire\", sentire come espressione dell'essenza umana più intima che mai. Un libro da leggere e rileggere in momenti diversi della vita, sempre in grado di emozionare.\r\n\r\n\r\nParafrasando uno dei concetti meglio espressi:\r\nnon sono il potere né la proprietà né la conoscenza a rendere felici, ma esclusivamente l'amore, in particolare saper amare, donarsi, sentirsi. Felice è chi sa amare.\r\nHesse descrive l'amore degli Antichi, l'amore come processo indifferente all'oggetto amato, il quale si contrappone all'amore post-omerico e cristiano, focalizzato sull'oggetto d'amore e meno sulla natura dell'impeto.\r\nAnche in questo libro ricorre il tema, a me molto caro, dell'infinita ricerca di Hesse, con continui rimandi al \"Der suchende\", colui che cerca e ricerca in profondità",
-    "owner": "Alepro",
-    "added_on": "2025-08-19T15:00:30.945818"
-  },
-  {
-    "id": 1755616488,
-    "title": "L'Aleph",
-    "author": "Jorge Luis Borges",
-    "rating": 5.0,
-    "review": "Aleph, prima lettera dell'alfabeto fenicio ed ebraico, rimando alla testa del bue, elemento importantissimo nella storia dell'uomo, ci porta al Principio delle cose. Questo libretto, piccolo ed intenso, mischia vari racconti che varcano i confini della fantasia illimitata di Borges, intrisi di temi originali e profondi. Moltissimi sono i rimandi alla filosofia nietzschiana, in particolare il tema dell'eterno ritorno. Troviamo il tema del doppio e degli opposti, l'incredibile ricerca della verità, la follia, gli estremismi, lo scorrere del tempo, la creazione intellettuale, la fisicità e la natura dell'arte.\r\n\r\nBorges è in grado di costruire mondi interi nell'ambito di qualche riga, riuscendo incredibilmente a far esplodere di significati nascosti questi nuove realtà. \r\nMetafisico (mi ha ricordato le opere di Alberto Savinio \"Sodoma\" e \"Gomorrhe\", intrinsecamente complesse) è il termine per descrivere questo capolavoro dell'autore, la profondità narrativa dell'opera è negli occhi di chi legge e di chi è in grado di comprenderne la complessità, visibilmente presente.\r\n",
-    "owner": "Alepro",
-    "added_on": "2025-08-19T15:14:48.555449"
-  },
-  {
-    "id": 1755616831,
-    "title": "Il deserto dei tartari",
-    "author": "Dino Buzzati",
-    "rating": 4.5,
-    "review": "Ambientazione sognante, eroicismo trascendente e temi spiazzanti mascherati da un romanzo che pare semplice e monotono (un po' come la vita del protagonista, lo stile si fa portavoce della storia), un libro in grado di cambiare la visione della vita. Il tema dell'attesa sempre presente, la paura della perdita del potenziale. Buzzati spinge ad apprezzare il qui ed ora, ad impegnarci e ad apprezzare tutte le fasi del nostro cambiamento. ",
-    "owner": "Alepro",
-    "added_on": "2025-08-19T15:20:31.127224"
-  },
-  {
-    "id": 1755617142,
-    "title": "Lo straniero",
-    "author": "Albert Camus",
-    "rating": 4.0,
-    "review": "\"L'etranger\", l'letto in francese, pare un libro semplice e alienante, un libro assurdo. Si tratta di un'opera breve ma incontenibile, ben pensata e sviluppata, un libro che una volta letto non si può dimenticare, come provato dal sondaggio di \"Le Monde\". Le descrizioni sono davvero intense, seppur semplici, e ci portano a vivere con il protagonista, sentirci presenti con lui alla finestra della sua casa quando guarda il mondo esterno. Il protagonista si sente spaesato e avulso dalla sua realtà e si ritrova in situazioni assurde senza una particolare causa. Servirebbe un trattato intero per descrivere gli aspetti nascosti dallo stile di Camus, spesso semplice e intuitivo ma mai banale",
-    "owner": "Alepro",
-    "added_on": "2025-08-19T15:25:42.791597"
-  },
-  {
-    "id": 1755617401,
-    "title": "Le cose dell'amore",
-    "author": "Umberto Galimberti",
-    "rating": 4.0,
-    "review": "Galimberti, autore lucido e emozionale, è in grado di raccontarci, in questo breve saggio, cosa sente e cosa pensa riguardo all'amore. Amore è un tema molto sentito e spesso presente in libri, canzoni e film ma che rimane avvolto da una coltre di mistero. L'autore cerca di snodare la matassa del concetto di amore senza dissolverne la magia, ponendo alcuni spunti interessanti e originali",
-    "owner": "Alepro",
-    "added_on": "2025-08-19T15:30:01.330014"
-  },
-  {
-    "id": 1755617704,
-    "title": "Siddharta",
-    "author": "Herman Hesse",
-    "rating": 5.0,
-    "review": "Der suchende, Colui che cerca, colui che non sa, il viandante, il girovago in cerca di qualcosa che non definisce. Semplicemente geniale ed intenso, va letto a piccoli passi e poi lasciato sedimentare per poterne apprezzare non solo il succo ma anche il sidro. Travolgente\r\n\r\n\r\n\"Tutti i libri del mondo\r\nnon ti danno la felicità,\r\nperò in segreto\r\n ti rinviano a te stesso\" H.E.",
-    "owner": "Alepro",
-    "added_on": "2025-08-19T15:35:04.882628"
-  },
-  {
-    "id": 1755618138,
-    "title": "Il crepuscolo degli idoli",
-    "author": "Friedrich Nietzsche",
-    "rating": 4.0,
-    "review": "Vibrante essenza di Friedrich Nietzsche, distruzione per la creazione, trasformazione del pensiero. Critico e imponente, sottolinea una crisi valoriale in favore di un'ascesa neo-valoriale",
-    "owner": "Alepro",
-    "added_on": "2025-08-19T15:42:18.849943"
-  },
-  {
-    "id": 1755618494,
-    "title": "Il libro dell'inquietudine",
-    "author": "Fernando Pessoa",
-    "rating": 4.5,
-    "review": "Difficile, pesante, complesso, criptico, spaventoso, frammentario, ma ha anche dei difetti. Pessoa, uomo stupendamente profondo, è in grado di trasmettere quell'inquietudine al lettore trasformandola in forza creatrice e vitale. Un libro da leggere a piccole dosi, da apprezzare come un cibo prezioso e dal sapore complesso, a tratti amaro, ma in grado di aprire sensi e mente alla vita. un grande libro",
-    "owner": "Alepro",
-    "added_on": "2025-08-19T15:48:14.921923"
-  },
-  {
-    "id": 1755618603,
-    "title": "Primo non nuocere",
-    "author": "Henry Marsh",
-    "rating": 4.0,
-    "review": "Storia in casi clinici di un Neurochirurgo, non tanto il suo lavoro quanto il suo sentire, la sua esperienza di vita.",
-    "owner": "Alepro",
-    "added_on": "2025-08-19T15:50:03.076155"
-  },
-  {
-    "id": 1755618992,
-    "title": "Che cosa è la vita?",
-    "author": "Erwin Schrödinger",
-    "rating": 3.5,
-    "review": "Stadio aurorale di un libro che avrebbe potuto essere più profondo e specifico, si tratta di un libretto molto divulgativo, consigliato a chi si avvicina alla biologia. Erwin Schrödinger non dimentica di riflettere sull'ordine dall'ordine e in particolare sull'ordine dal disordine, focalizzandosi sull'affascinante fenomeno della vita intesa come evento naturale e sui suoi componenti cellulari \r\n",
-    "owner": "Alepro",
-    "added_on": "2025-08-19T15:56:32.675361"
-  },
-  {
-    "id": 1755619083,
-    "title": "Il Tao della fisica",
-    "author": "Fritjof Capra",
-    "rating": 3.5,
-    "review": "Libro circolare e complesso, un must per aspiranti fisici universitari",
-    "owner": "Alepro",
-    "added_on": "2025-08-19T15:58:03.293776"
-  },
-  {
-    "id": 1755620067,
-    "title": "Il gabbiano Jonathan Livingston",
-    "author": "Richard Bach",
-    "rating": 4.5,
-    "review": "Piccolo libro poco apprezzato dall'autore di questo sito, penso sia di estrema significatività: si parla, seppure in modo originale, di temi quali la libertà, l'irrequietezza, la ricerca di senso, la ricerca di amore. L'autore promuove l'importanza dell'unicità dell'individuo e la ricerca di sé e del proprio percorso, indipendentemente dai condizionamenti sociali e dalle barbarie intellettuali tipiche della nostra società (un piccolo siddartha con le ali). Leggendo ad un livello più semplice emerge la spinta per l'eccellenza, la fuga dalla mediocrità e dalla banalità, l'approfondimento della vita e delle nostre capacità, la spiritualità e la dicotomia umana, in parte animale e in parte dio (come Cartesio ci insegna, concezione scardinata successivamente da Antonio Damasio). In generale un libro di formazione apprezzabile e ispirato, anche se in parte sincretistico.",
-    "owner": "Alepro",
-    "added_on": "2025-08-19T16:14:27.690625"
   },
   {
     "id": 1757665411,
@@ -974,15 +830,6 @@
     "genere": "Filosofia"
   },
   {
-    "id": 1759839458,
-    "title": "La vita intima ",
-    "author": "Niccolò Ammaniti",
-    "rating": 2.5,
-    "review": "Scorrevole e avvincente come sempre ma si sente la mano maschile dietro la psicologia della protagonista che risulta non completamente credibile ",
-    "owner": "Bia",
-    "added_on": "2025-10-07T12:17:38.537476"
-  },
-  {
     "id": 1757665522,
     "title": "La mia Famiglia ed altri animali",
     "author": "Gerald Durrell",
@@ -991,15 +838,6 @@
     "owner": "12",
     "added_on": "2025-09-12T09:25:21.840677",
     "genere": "Narrativa straniera"
-  },
-  {
-    "id": 1763193020,
-    "title": "Il catino di zinco",
-    "author": "Margaret Mazzantini ",
-    "rating": 3.0,
-    "review": "Nostalgico (in tutti i sensi), viva le nonne ",
-    "owner": "Bia",
-    "added_on": "2025-11-15T07:50:20.666563"
   },
   {
     "id": 1764006036,
