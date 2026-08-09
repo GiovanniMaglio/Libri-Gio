@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1752347795,
+    "title": "L'amore prima di noi",
+    "author": "Paola Mastrocola",
+    "rating": 3.0,
+    "review": "Buon inizio per appassionarsi ai miti greci, il mio preferito è stato quello di orfeo e Euridice",
+    "owner": "12",
+    "added_on": "2025-07-12T19:16:35.496968",
+    "genere": "Narrativa italiana"
+  },
+  {
+    "id": 1720815260000,
+    "title": "Il ritratto di Dorian gray",
+    "author": "Oscar Wilde",
+    "rating": 4.5,
+    "review": "Il mio primo libro di filosofia",
+    "owner": "12",
+    "added_on": "2025-07-12T19:54:00",
+    "genere": "Narrativa straniera"
+  },
+  {
+    "id": 1720815260001,
+    "title": "Il sentiero dei nidi di ragno",
+    "author": "Italo Calvino",
+    "rating": 4.0,
+    "review": "Il mio primo libro letto in assoluto, è stato bellissimo",
+    "owner": "12",
+    "added_on": "2025-07-12T19:54:01",
+    "genere": "Narrativa italiana"
+  }
+]
