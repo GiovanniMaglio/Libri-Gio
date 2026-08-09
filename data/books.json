@@ -1,12 +1,972 @@
 [
   {
-    "id": 1752347795,
-    "title": "L'amore prima di noi",
-    "author": "Paola Mastrocola",
-    "rating": 3.0,
-    "review": "Buon inizio per appassionarsi ai miti greci, il mio preferito è stato quello di orfeo e Euridice",
+    "id": 1784103316,
+    "title": "Perché oggi non è possibile una rivoluzione",
+    "author": "Byung-chul Han",
+    "rating": 4.0,
+    "review": "Il mio secondo libro di questo filosofo sud-coreano.\r\nForse inizialmente ho preferito \"la Società della Stanchezza\" poi, soprattutto per le interviste finali, ho pensato che questo sia più maturo.\r\nByung-chul Han mantiene un linguaggio caratteristico, non direi proprio filosofico analitico.\r\nAlcune volte non cerca di convincerti, senza troppi se e ma arriva diretto alla sua opinione (spesso da non confondere con dei dati più oggettivi).\r\nQuello che mi piace è in parte questa chiarezza esplicita, in parte la sua capacità di creare collegamenti estremamente simbolici e accurati.\r\nQuello che vorrei chiedergli è qualche fonte in più, qualche paragone in più rispetto al pensiero passato.\r\nDiverse volte secondo me potrebbe essere un punto di forza inserire il pensiero di altri, non solo come piccole citazioni o frasi da contestare/approvare.\r\nCredo a praticamente a tutto quello che ho letto, c'è da ammetterlo.\r\n 'Che mondo è?' penseremo leggendo,BCH risponde: 'mi spiace, i fatti sono questi.'",
     "owner": "12",
-    "added_on": "2025-07-12T19:16:35.496968",
+    "added_on": "2026-07-15T08:15:16.564173",
+    "genere": "Filosofia"
+  },
+  {
+    "id": 1782713945,
+    "title": "Mamma mi faccio le Canne",
+    "author": "Antonella Soldo",
+    "rating": 3.5,
+    "review": "Se sei contro la legalizzazione sicuramente non hai letto questo libro",
+    "owner": "12",
+    "added_on": "2026-06-29T06:19:05.880842",
+    "genere": "Saggistica"
+  },
+  {
+    "id": 1782713868,
+    "title": "Anarchia",
+    "author": "Errico Malatesta",
+    "rating": 4.0,
+    "review": "l'anarchia mi piace perché è come la teoria del tutto",
+    "owner": "12",
+    "added_on": "2026-06-29T06:17:48.132035",
+    "genere": "Filosofia"
+  },
+  {
+    "id": 1782119745,
+    "title": "La società della stanchezza",
+    "author": "Byung-chul Han",
+    "rating": 4.5,
+    "review": "Molto interessante, dovrebbero leggerlo tutti credo. Si tratta comunque di teorie sociali, non prove scientifiche, ma forse è questa la loro potenza. \r\nMi piacerebbe che venisse insegnato nelle scuole(ovviamente non succederà mai). \r\nL'attualità concreta del testo credo che lo renderà un punto di riferimento più avanti, magari però troppo più avanti, troppo tardi. \r\nIl capitolo sull'auto-sfruttamento è sacro, quello sulla nascita delle nuove forme di anomalie mentali importantissimo.\r\n",
+    "owner": "12",
+    "added_on": "2026-06-22T09:15:45.101098",
+    "genere": "Filosofia"
+  },
+  {
+    "id": 1782119419,
+    "title": "Cosa può un corpo, lezioni su Spinoza",
+    "author": "Gillés Deleuze",
+    "rating": 5.0,
+    "review": "Scoprire in questo modo l'etica di Spinoza ti porta a sentirti li, a Parigi, alle lezioni di Deleuze. Spinoza ovviamente è un grande e uno, per ora, di quelli che apprezzo di più",
+    "owner": "12",
+    "added_on": "2026-06-22T09:10:19.400770",
+    "genere": "Filosofia"
+  },
+  {
+    "id": 1782119261,
+    "title": "Conversazioni, interviste",
+    "author": "Michel Focault",
+    "rating": 4.0,
+    "review": "é troppo un grande",
+    "owner": "12",
+    "added_on": "2026-06-22T09:07:41.544808",
+    "genere": "Filosofia"
+  },
+  {
+    "id": 1779018885,
+    "title": "I problemi della filosofia",
+    "author": "Bertrand Russell",
+    "rating": 2.5,
+    "review": "Stra tanțo solo un'introduzione",
+    "owner": "12",
+    "added_on": "2026-05-17T11:54:45.349342",
+    "genere": "Filosofia"
+  },
+  {
+    "id": 1779018490,
+    "title": "Realismo Capitalista",
+    "author": "Mark Fisher",
+    "rating": 4.0,
+    "review": "Libro che si legge molto facilmente, una bella sintesi del pensiero anticapitalista moderno, non ci sono vere e proprio proposte ma sicuramente vere e proprie critiche ben strutturate\r\nChe schifo il liberalismo economico, le società del controllo, la privatizzazione e tutte queste cose\r\nHo apprezzato molto alcuni rimandi anche alla filosofia pura come a Deleuze e al suo Spinoza ma anche citazioni a film recenti",
+    "owner": "12",
+    "added_on": "2026-05-17T11:48:10.681095",
+    "genere": "Filosofia"
+  },
+  {
+    "id": 1778177664,
+    "title": "L'Idiota",
+    "author": "Fëdor Dostoevskij",
+    "rating": 3.5,
+    "review": "Un Dostoevskij inaspettato a tratti, abbastanza pesante ma un bel viaggio",
+    "owner": "12",
+    "added_on": "2026-05-07T18:14:24.946372",
+    "genere": "Narrativa straniera"
+  },
+  {
+    "id": 1778177602,
+    "title": "Il Contratto Sociale",
+    "author": "Jean-Jacques Rousseau",
+    "rating": 4.0,
+    "review": "Pensare che è stato scritto 3 secoli fa da un po' di paura. Mi è piaciuto molto l'incipit iniziale e come affronta la nascita delle religioni monoteiste.",
+    "owner": "12",
+    "added_on": "2026-05-07T18:13:22.541571",
+    "genere": "Filosofia"
+  },
+  {
+    "id": 1769845946,
+    "title": "Origine e funzione del linguaggio",
+    "author": "Mapertuis",
+    "rating": 3.0,
+    "review": "Bello",
+    "owner": "12",
+    "added_on": "2026-01-31T07:52:26.455561",
+    "genere": "Saggistica"
+  },
+  {
+    "id": 1768222319,
+    "title": "Elogio dell'amore",
+    "author": "Alain Badiou",
+    "rating": 2.5,
+    "review": "Interessante ma alcune cosa non le condivido a pieno, a tratti banale a tratti per me nuovo",
+    "owner": "12",
+    "added_on": "2026-01-12T12:51:59.136245",
+    "genere": "Filosofia"
+  },
+  {
+    "id": 1767363034,
+    "title": "Il Giovane Holden",
+    "author": "J. D. Salinger",
+    "rating": 2.5,
+    "review": "Mi è piaciuta la scrittura personale e il tono ironico ma dopo un po diventa pedante",
+    "owner": "12",
+    "added_on": "2026-01-02T14:10:34.190314",
+    "genere": "Narrativa straniera"
+  },
+  {
+    "id": 1764006107,
+    "title": "Doppio sogno",
+    "author": "Arthur Schnitzler",
+    "rating": 3.5,
+    "review": "Mi sono accorto solo dopo una ventina di pagine che è Eyes Wide Shut",
+    "owner": "12",
+    "added_on": "2025-11-24T17:41:47.054420",
+    "genere": "Narrativa straniera"
+  },
+  {
+    "id": 1764006036,
+    "title": "Sull'uguaglianza di tutte le cose",
+    "author": "Carlo Rovelli",
+    "rating": 3.0,
+    "review": "Molto meglio di \"Buchi Bianchi\". Rovelli ci spiega attraverso metafore e racconti, sfruttando le interpretazioni della nuova fisica, come è necessario un equilibro in tutto. Non ha senso discutere se gli unicorni esistono o meno, come non ha senso dire la fisica di Newton è sbagliata, è corretta quella di Einstein.",
+    "owner": "12",
+    "added_on": "2025-11-24T17:40:36.285142",
+    "genere": "Saggistica"
+  },
+  {
+    "id": 1757665522,
+    "title": "La mia Famiglia ed altri animali",
+    "author": "Gerald Durrell",
+    "rating": 3.0,
+    "review": "Allora, il libro è molto bello nella sua semplicità e tenerezza. Scoprendo ancora come la visione dei bambini del mondo ci può insegnare tanto impariamo anche alcune bellezze del mondo degli animali.",
+    "owner": "12",
+    "added_on": "2025-09-12T09:25:21.840677",
+    "genere": "Narrativa straniera"
+  },
+  {
+    "id": 1757665521,
+    "title": "Storia della filosofia occidentale ",
+    "author": "Bertrand Russel",
+    "rating": 4.5,
+    "review": "Bellissimo, mi aspettavo qualcosa di estremamente pesante e accademico invece ho scoperto un mondo",
+    "owner": "12",
+    "added_on": "2025-09-12T08:25:21.840677",
+    "genere": "Filosofia"
+  },
+  {
+    "id": 1757665411,
+    "title": "Il Castello",
+    "author": "Franz Kafka",
+    "rating": 4.0,
+    "review": "Il protagonista (K), vive una specie di incubo, tra un infinita burocrazia, alle volte piena alle volte vuota di logica, e il costante tentativo di provare a farsi valere. \r\nPer come la vedo è un romanzo sulla sottomissione a ciò che è superiore, in qualche modo.",
+    "owner": "12",
+    "added_on": "2025-09-12T08:23:31.258059",
+    "genere": "Narrativa filosofica"
+  },
+  {
+    "id": 1755362091,
+    "title": "Tropico del Cancro",
+    "author": "Henry Miller",
+    "rating": 4.0,
+    "review": "Non è un libro facile: a tratti prolisso, volutamente scandaloso e persino disturbante. Ma dietro l’eccesso di sesso alcol e caos emerge una straordinaria energia",
+    "owner": "12",
+    "added_on": "2025-08-16T16:34:51.267556",
+    "genere": "Narrativa filosofica"
+  },
+  {
+    "id": 1720815260085,
+    "title": "Il grande Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "rating": 2.0,
+    "review": "Non mi ha proprio preso, la trama cerca di rincorrersi da sola e i personaggi non mi sono sembrati così interessanti. Meglio i film",
+    "owner": "12",
+    "added_on": "2025-07-15T19:55:07",
+    "genere": "Narrativa straniera"
+  },
+  {
+    "id": 1720815260084,
+    "title": "Il gabbiano Jonathan Livingston",
+    "author": "Richard Bach",
+    "rating": 2.0,
+    "review": "Avrei preferito un gabbiano più onesto, tipo qurlli che ti rubano il panino in spieggia. Comunque è considerato un libro incredibile ma per me continua a ripetere la prima frase fino alla fine",
+    "owner": "12",
+    "added_on": "2025-07-14T19:55:06",
+    "genere": "Narrativa straniera"
+  },
+  {
+    "id": 1720815260083,
+    "title": "Norwegian Wood",
+    "author": "Haruki Murakami",
+    "rating": 4.0,
+    "review": "Questo è uno dei libri che mi ha fatto pensare di più. Il protagonista ci porta nella sua adolescenza, storie molto delicate, tenere, violente, tristi e piene di vitalità. Il tema più importante che viene esposto secondo me è la sua sensazione e la sua effettiva solitudine. Il periodo in cui l'ho letto e questa scrittura così innocente, pura, mi hanno emozionato in modo impreparato quasi troppe volte.",
+    "owner": "12",
+    "added_on": "2025-07-13T19:55:05",
+    "genere": "Narrativa straniera"
+  },
+  {
+    "id": 1720815260082,
+    "title": "Storie di ordinaria follia",
+    "author": "Charles Bukowski",
+    "rating": 3.5,
+    "review": "",
+    "owner": "12",
+    "added_on": "2025-07-12T19:55:07",
+    "genere": "Narrativa straniera"
+  },
+  {
+    "id": 1720815260080,
+    "title": "Lo sapevo, qui, sopra il fiume Hao",
+    "author": "Carlo Rovelli",
+    "rating": 3.5,
+    "review": "",
+    "owner": "12",
+    "added_on": "2025-07-12T19:55:07",
+    "genere": "Narrativa filosofica"
+  },
+  {
+    "id": 1720815260079,
+    "title": "Biondo era e bello",
+    "author": "Mario Tobino",
+    "rating": 3.0,
+    "review": "",
+    "owner": "12",
+    "added_on": "2025-07-12T19:55:07",
+    "genere": "Saggistica"
+  },
+  {
+    "id": 1720815260078,
+    "title": "Il mastino di Baskerville",
+    "author": "Arthur Conan Doyle",
+    "rating": 3.5,
+    "review": "",
+    "owner": "12",
+    "added_on": "2025-07-12T19:55:07",
+    "genere": "Gialli e noir"
+  },
+  {
+    "id": 1720815260077,
+    "title": "Il taccuino di Sherlock Holmes",
+    "author": "Arthur Conan Doyle",
+    "rating": 3.0,
+    "review": "",
+    "owner": "12",
+    "added_on": "2025-07-12T19:55:07",
+    "genere": "Gialli e noir"
+  },
+  {
+    "id": 1720815260076,
+    "title": "Le avventure di Sherlock Holmes",
+    "author": "Arthur Conan Doyle",
+    "rating": 3.0,
+    "review": "",
+    "owner": "12",
+    "added_on": "2025-07-12T19:55:07",
+    "genere": "Gialli e noir"
+  },
+  {
+    "id": 1720815260075,
+    "title": "La solitudine dei numeri primi",
+    "author": "Paolo Giordano",
+    "rating": 3.0,
+    "review": "",
+    "owner": "12",
+    "added_on": "2025-07-12T19:55:07",
+    "genere": "Narrativa italiana"
+  },
+  {
+    "id": 1720815260074,
+    "title": "Memorie del sottosuolo ",
+    "author": "Fëdor Dostoevskij",
+    "rating": 3.5,
+    "review": "",
+    "owner": "12",
+    "added_on": "2025-07-12T19:55:07",
+    "genere": "Narrativa filosofica"
+  },
+  {
+    "id": 1720815260073,
+    "title": "L'arte di essere felici",
+    "author": "Arthur Schopenhauer",
+    "rating": 3.0,
+    "review": "",
+    "owner": "12",
+    "added_on": "2025-07-12T19:55:07",
+    "genere": "Narrativa italiana"
+  },
+  {
+    "id": 1720815260072,
+    "title": "La verità,vi prego, sull'amore",
+    "author": "W.H.Auden",
+    "rating": 4.0,
+    "review": "",
+    "owner": "12",
+    "added_on": "2025-07-12T19:55:07",
+    "genere": "Poesia"
+  },
+  {
+    "id": 1720815260071,
+    "title": "il concetto di tempo",
+    "author": "Martin Heidegger",
+    "rating": 3.0,
+    "review": "",
+    "owner": "12",
+    "added_on": "2025-07-12T19:55:07",
+    "genere": "Filosofia"
+  },
+  {
+    "id": 1720815260070,
+    "title": "L'innocente",
+    "author": "Gabriele D’Annunzio",
+    "rating": 4.0,
+    "review": "",
+    "owner": "12",
+    "added_on": "2025-07-12T19:55:07",
+    "genere": "Narrativa italiana"
+  },
+  {
+    "id": 1720815260069,
+    "title": "Racconti",
+    "author": "Cesare Pavese",
+    "rating": 3.0,
+    "review": "",
+    "owner": "12",
+    "added_on": "2025-07-12T19:55:07",
+    "genere": "Narrativa italiana"
+  },
+  {
+    "id": 1720815260068,
+    "title": "La luna e i falò",
+    "author": "Cesare Pavese",
+    "rating": 4.0,
+    "review": "",
+    "owner": "12",
+    "added_on": "2025-07-12T19:55:07",
+    "genere": "Narrativa italiana"
+  },
+  {
+    "id": 1720815260064,
+    "title": "La vita felice",
+    "author": "Seneca",
+    "rating": 3.0,
+    "review": "",
+    "owner": "12",
+    "added_on": "2025-07-12T19:55:04",
+    "genere": "Filosofia"
+  },
+  {
+    "id": 1720815260063,
+    "title": "La nausea",
+    "author": "Jean-Paul Sartre",
+    "rating": 5.0,
+    "review": "Bellissimo e difficilissimo. Mischiando narrativa e filosofia il protagonista, Roquentin, osserva il mondo e sente che qualcosa non torna. Gli oggetti gli appaiono estranei, quasi ostili. I gesti quotidiani gli sembrano ridicoli, inutili. È la coscienza che si risveglia e si accorge del vuoto sotto ogni cosa. E da lì nasce la nausea: non come semplice disgusto, ma come rivelazione brutale dell’assurdità dell’esistenza.Eppure nonn è un libro cubo",
+    "owner": "12",
+    "added_on": "2025-07-12T19:55:03",
+    "genere": "Narrativa filosofica"
+  },
+  {
+    "id": 1720815260062,
+    "title": "Pedro Páramo",
+    "author": "Juan Rulfo",
+    "rating": 2.5,
+    "review": "",
+    "owner": "12",
+    "added_on": "2025-07-12T19:55:02",
+    "genere": "Narrativa straniera"
+  },
+  {
+    "id": 1720815260061,
+    "title": "La morte felice",
+    "author": "Albert Camus",
+    "rating": 4.0,
+    "review": "",
+    "owner": "12",
+    "added_on": "2025-07-12T19:55:01",
+    "genere": "Narrativa filosofica"
+  },
+  {
+    "id": 1720815260060,
+    "title": "Il colibrì",
+    "author": "Sandro Veronesi",
+    "rating": 3.0,
+    "review": "",
+    "owner": "12",
+    "added_on": "2025-07-12T19:55:00",
+    "genere": "Narrativa italiana"
+  },
+  {
+    "id": 1720815260059,
+    "title": "Lo straniero",
+    "author": "Albert Camus",
+    "rating": 5.0,
+    "review": "Letto sul volo di andata e ritorno da Amsterdam. Camus è una delle persone che avrei veramente voluto conoscere, per me è un genio. Il modo in cui il temma dell'esistenziallismo è portato è molto poetico secondo me, ma anche profondamente filosofico. Ho apprezzato più di tutte la parte in cui viene descritto il susseguirsi dei giorni all'inizio del libro, e ovviamente il discorso finale con il prete, risposta a Sartre.",
+    "owner": "12",
+    "added_on": "2025-07-12T19:54:59",
+    "genere": "Narrativa filosofica"
+  },
+  {
+    "id": 1720815260058,
+    "title": "100 poeti",
+    "author": "AA.VV.",
+    "rating": 4.0,
+    "review": "Per iniziare a orientarsi, e leggere ogni tanto, aprendolo a caso, una poesia",
+    "owner": "12",
+    "added_on": "2025-07-12T19:54:58",
+    "genere": "Poesia"
+  },
+  {
+    "id": 1720815260057,
+    "title": "Il muro",
+    "author": "Jean-Paul Sartre",
+    "rating": 4.5,
+    "review": "",
+    "owner": "12",
+    "added_on": "2025-07-12T19:54:57",
+    "genere": "Narrativa filosofica"
+  },
+  {
+    "id": 1720815260056,
+    "title": "Il piccolo regno",
+    "author": "Wu Ming",
+    "rating": 3.5,
+    "review": "",
+    "owner": "12",
+    "added_on": "2025-07-12T19:54:56",
+    "genere": "Narrativa straniera"
+  },
+  {
+    "id": 1720815260055,
+    "title": "Il diavolo sulle colline",
+    "author": "Cesare Pavese",
+    "rating": 4.0,
+    "review": "",
+    "owner": "12",
+    "added_on": "2025-07-12T19:54:55",
+    "genere": "Narrativa italiana"
+  },
+  {
+    "id": 1720815260054,
+    "title": "Poesie, Pavese",
+    "author": "Cesare Pavese",
+    "rating": 5.0,
+    "review": "Fuori, dopo la cena, verranno le stelle a toccare sulla larga pianura la terra. Le stelle son vive,ma non valgono queste ciliege, che mangio da solo.",
+    "owner": "12",
+    "added_on": "2025-07-12T19:54:54",
+    "genere": "Poesia"
+  },
+  {
+    "id": 1720815260053,
+    "title": "Poesie, Montale",
+    "author": "Eugenio Montale",
+    "rating": 3.5,
+    "review": "",
+    "owner": "12",
+    "added_on": "2025-07-12T19:54:53",
+    "genere": "Poesia"
+  },
+  {
+    "id": 1720815260052,
+    "title": "Una stagione all’inferno",
+    "author": "Arthur Rimbaud",
+    "rating": 4.5,
+    "review": "A diciannove anni Rimbaud scrive come se avesse vissuto mille vite e fosse morto in ognuna. Un pugno nello stomaco della letteratura borghese. Rimbaud prende la poesia, la trascina nel fango, la fa sanguinare, e la rende sublime. Ci sputa addosso il suo odio per la morale, l’arte ufficiale, la religione ipocrita, l’amore romantico. ",
+    "owner": "12",
+    "added_on": "2025-07-12T19:54:52",
+    "genere": "Poesia"
+  },
+  {
+    "id": 1720815260051,
+    "title": "Caligola",
+    "author": "Albert Camus",
+    "rating": 3.5,
+    "review": "",
+    "owner": "12",
+    "added_on": "2025-07-12T19:54:51",
+    "genere": "Narrativa filosofica"
+  },
+  {
+    "id": 1720815260050,
+    "title": "Il principe",
+    "author": "Niccolò Machiavelli",
+    "rating": 2.0,
+    "review": "",
+    "owner": "12",
+    "added_on": "2025-07-12T19:54:50",
+    "genere": "Filosofia"
+  },
+  {
+    "id": 1720815260049,
+    "title": "L’uomo che scambiò sua moglie con un cappello",
+    "author": "Oliver Sacks",
+    "rating": 3.0,
+    "review": "",
+    "owner": "12",
+    "added_on": "2025-07-12T19:54:49",
+    "genere": "Saggistica"
+  },
+  {
+    "id": 1720815260047,
+    "title": "Candido",
+    "author": "Voltaire",
+    "rating": 2.0,
+    "review": "",
+    "owner": "12",
+    "added_on": "2025-07-12T19:54:47",
+    "genere": "Filosofia"
+  },
+  {
+    "id": 1720815260046,
+    "title": "Le avventure di Tom Sawyer",
+    "author": "Mark Twain",
+    "rating": 3.0,
+    "review": "",
+    "owner": "12",
+    "added_on": "2025-07-12T19:54:46",
+    "genere": "Narrativa straniera"
+  },
+  {
+    "id": 1720815260045,
+    "title": "I tre moschettieri",
+    "author": "Alexandre Dumas",
+    "rating": 3.0,
+    "review": "",
+    "owner": "12",
+    "added_on": "2025-07-12T19:54:45",
+    "genere": "Narrativa straniera"
+  },
+  {
+    "id": 1720815260044,
+    "title": "Il fu Mattia Pascal",
+    "author": "Luigi Pirandello",
+    "rating": 3.0,
+    "review": "",
+    "owner": "12",
+    "added_on": "2025-07-12T19:54:44",
+    "genere": "Narrativa italiana"
+  },
+  {
+    "id": 1720815260043,
+    "title": "Il vecchio e il mare",
+    "author": "Ernest Hemingway",
+    "rating": 4.0,
+    "review": "",
+    "owner": "12",
+    "added_on": "2025-07-12T19:54:43",
+    "genere": "Narrativa straniera"
+  },
+  {
+    "id": 1720815260042,
+    "title": "Il piacere",
+    "author": "Gabriele D’Annunzio",
+    "rating": 4.0,
+    "review": "",
+    "owner": "12",
+    "added_on": "2025-07-12T19:54:42",
+    "genere": "Narrativa italiana"
+  },
+  {
+    "id": 1720815260041,
+    "title": "La coscienza di Zeno",
+    "author": "Italo Svevo",
+    "rating": 3.0,
+    "review": "",
+    "owner": "12",
+    "added_on": "2025-07-12T19:54:41",
+    "genere": "Narrativa italiana"
+  },
+  {
+    "id": 1720815260040,
+    "title": "Helgoland",
+    "author": "Carlo Rovelli",
+    "rating": 3.5,
+    "review": "",
+    "owner": "12",
+    "added_on": "2025-07-12T19:54:40",
+    "genere": "Saggistica"
+  },
+  {
+    "id": 1720815260039,
+    "title": "L’ordine del tempo",
+    "author": "Carlo Rovelli",
+    "rating": 3.0,
+    "review": "",
+    "owner": "12",
+    "added_on": "2025-07-12T19:54:39",
+    "genere": "Saggistica"
+  },
+  {
+    "id": 1720815260037,
+    "title": "La bella estate",
+    "author": "Cesare Pavese",
+    "rating": 3.5,
+    "review": "",
+    "owner": "12",
+    "added_on": "2025-07-12T19:54:37",
+    "genere": "Narrativa italiana"
+  },
+  {
+    "id": 1720815260036,
+    "title": "Buchi bianchi",
+    "author": "Carlo Rovelli",
+    "rating": 1.0,
+    "review": "",
+    "owner": "12",
+    "added_on": "2025-07-12T19:54:36",
+    "genere": "Saggistica"
+  },
+  {
+    "id": 1720815260035,
+    "title": "7 brevi lezioni di fisica",
+    "author": "Carlo Rovelli",
+    "rating": 2.5,
+    "review": "",
+    "owner": "12",
+    "added_on": "2025-07-12T19:54:35",
+    "genere": "Saggistica"
+  },
+  {
+    "id": 1720815260034,
+    "title": "Uno studio in rosa",
+    "author": "Arthur Conan Doyle",
+    "rating": 3.5,
+    "review": "",
+    "owner": "12",
+    "added_on": "2025-07-12T19:54:34",
+    "genere": "Gialli e noir"
+  },
+  {
+    "id": 1720815260033,
+    "title": "I dolori del giovane Werther",
+    "author": "Johann Wolfgang von Goethe",
+    "rating": 3.0,
+    "review": "",
+    "owner": "12",
+    "added_on": "2025-07-12T19:54:33",
+    "genere": "Epistolare"
+  },
+  {
+    "id": 1720815260032,
+    "title": "La leggenda del santo bevitore",
+    "author": "Joseph Roth",
+    "rating": 2.5,
+    "review": "",
+    "owner": "12",
+    "added_on": "2025-07-12T19:54:32",
+    "genere": "Narrativa straniera"
+  },
+  {
+    "id": 1720815260031,
+    "title": "Bartleby lo scrivano",
+    "author": "Herman Melville",
+    "rating": 3.0,
+    "review": "",
+    "owner": "12",
+    "added_on": "2025-07-12T19:54:31",
+    "genere": "Narrativa straniera"
+  },
+  {
+    "id": 1720815260030,
+    "title": "Memoria delle mie puttane tristi",
+    "author": "Gabriel García Márquez",
+    "rating": 3.5,
+    "review": "",
+    "owner": "12",
+    "added_on": "2025-07-12T19:54:30",
+    "genere": "Narrativa straniera"
+  },
+  {
+    "id": 1720815260029,
+    "title": "Cent’anni di solitudine",
+    "author": "Gabriel García Márquez",
+    "rating": 4.0,
+    "review": "",
+    "owner": "12",
+    "added_on": "2025-07-12T19:54:29",
+    "genere": "Narrativa straniera"
+  },
+  {
+    "id": 1720815260028,
+    "title": "Ciò che l’inferno non è",
+    "author": "Alessandro D’Avenia",
+    "rating": 2.5,
+    "review": "",
+    "owner": "12",
+    "added_on": "2025-07-12T19:54:28",
+    "genere": "Narrativa italiana"
+  },
+  {
+    "id": 1720815260027,
+    "title": "Sherlock, Lupin e io",
+    "author": "Irene Adler",
+    "rating": 1.0,
+    "review": "",
+    "owner": "12",
+    "added_on": "2025-07-12T19:54:27",
+    "genere": "Gialli e noir"
+  },
+  {
+    "id": 1720815260026,
+    "title": "Le metamorfosi",
+    "author": "Franz Kafka",
+    "rating": 4.0,
+    "review": "",
+    "owner": "12",
+    "added_on": "2025-07-12T19:54:26",
+    "genere": "Narrativa filosofica"
+  },
+  {
+    "id": 1720815260025,
+    "title": "Il processo",
+    "author": "Franz Kafka",
+    "rating": 4.0,
+    "review": "",
+    "owner": "12",
+    "added_on": "2025-07-12T19:54:25",
+    "genere": "Narrativa filosofica"
+  },
+  {
+    "id": 1720815260024,
+    "title": "Il sopravvissuto",
+    "author": "Antonio Scurati",
+    "rating": 3.5,
+    "review": "",
+    "owner": "12",
+    "added_on": "2025-07-12T19:54:24",
+    "genere": "Narrativa italiana"
+  },
+  {
+    "id": 1720815260023,
+    "title": "Divorare il cielo",
+    "author": "Paolo Giordano",
+    "rating": 3.5,
+    "review": "",
+    "owner": "12",
+    "added_on": "2025-07-12T19:54:23",
+    "genere": "Narrativa italiana"
+  },
+  {
+    "id": 1720815260022,
+    "title": "La camera azzurra",
+    "author": "Georges Simenon",
+    "rating": 2.5,
+    "review": "",
+    "owner": "12",
+    "added_on": "2025-07-12T19:54:22",
+    "genere": "Gialli e noir"
+  },
+  {
+    "id": 1720815260021,
+    "title": "Siddhartha",
+    "author": "Hermann Hesse",
+    "rating": 3.5,
+    "review": "",
+    "owner": "12",
+    "added_on": "2025-07-12T19:54:21",
+    "genere": "Narrativa Filosofica"
+  },
+  {
+    "id": 1720815260020,
+    "title": "L’insostenibile leggerezza dell’essere",
+    "author": "Milan Kundera",
+    "rating": 4.0,
+    "review": "",
+    "owner": "12",
+    "added_on": "2025-07-12T19:54:20",
+    "genere": "Narrativa straniera"
+  },
+  {
+    "id": 1720815260019,
+    "title": "Sull’amore",
+    "author": "Charles Bukowski",
+    "rating": 5.0,
+    "review": "...L'amore è la tua donna che balla avvinghiata a un altro uomo.. Il migliore libro di poesie che ho letto per ora",
+    "owner": "12",
+    "added_on": "2025-07-12T19:54:19",
+    "genere": "Poesia"
+  },
+  {
+    "id": 1720815260018,
+    "title": "I fiori del male",
+    "author": "Charles Baudelaire",
+    "rating": 4.5,
+    "review": "",
+    "owner": "12",
+    "added_on": "2025-07-12T19:54:18",
+    "genere": "Poesia"
+  },
+  {
+    "id": 1720815260017,
+    "title": "Confidenza",
+    "author": "Domenico Starnone",
+    "rating": 3.0,
+    "review": "",
+    "owner": "12",
+    "added_on": "2025-07-12T19:54:17",
+    "genere": "Narrativa italiana"
+  },
+  {
+    "id": 1720815260016,
+    "title": "Lo spleen di Parigi",
+    "author": "Charles Baudelaire",
+    "rating": 5.0,
+    "review": "Il periodo in cui ho letto questo libricino è stato uno dei più importanti della mia vita. Insieme ai Fiori del Male con lo Spleen di Parigi ho iniziato a sognare questa città di continuo. Anche se scritto in prosa, Baudelaire qui non abbanodona la poesia. E' una carezza leggera, leggetelo   ",
+    "owner": "12",
+    "added_on": "2025-07-12T19:54:16",
+    "genere": "Poesia"
+  },
+  {
+    "id": 1720815260015,
+    "title": "Porci con le ali",
+    "author": "Marco Lombardo Radice e Lidia Ravera",
+    "rating": 2.5,
+    "review": "",
+    "owner": "12",
+    "added_on": "2025-07-12T19:54:15",
+    "genere": "Narrativa italiana"
+  },
+  {
+    "id": 1720815260013,
+    "title": "Notti bianche",
+    "author": "Fëdor Dostoevskij",
+    "rating": 3.0,
+    "review": "So che ad alcuni proprio non piace, per me è la classica situazione in cui ci si aspetta che un titolo così famoso sia quello che ci cambi la vita, e invece è, per me, un bel romanzo romantico e molto emotivo, che mi ricorda il freddo e la neve ",
+    "owner": "12",
+    "added_on": "2025-07-12T19:54:13",
+    "genere": "Narrativa straniera"
+  },
+  {
+    "id": 1720815260012,
+    "title": "Il sosia",
+    "author": "Fëdor Dostoevskij",
+    "rating": 3.0,
+    "review": "Devo ammettere che non è stato facile leggerlo. Contorto, ci si confonde sempre con i nomi, ma come sempre Dostoevskij da lezioni di stile.",
+    "owner": "12",
+    "added_on": "2025-07-12T19:54:12",
+    "genere": "Narrativa straniera"
+  },
+  {
+    "id": 1720815260011,
+    "title": "Delitto e castigo",
+    "author": "Fëdor Dostoevskij",
+    "rating": 5.0,
+    "review": "Questo romanzo è imbattibile. Nessuno ha mai scritto bene come Dostoevskij ",
+    "owner": "12",
+    "added_on": "2025-07-12T19:54:11",
+    "genere": "Narrativa straniera"
+  },
+  {
+    "id": 1720815260010,
+    "title": "L’arte della guerra",
+    "author": "Sun Tzu",
+    "rating": 2.5,
+    "review": "",
+    "owner": "12",
+    "added_on": "2025-07-12T19:54:10",
+    "genere": "Narrativa straniera"
+  },
+  {
+    "id": 1720815260009,
+    "title": "L’arte del tiro con l’arco e lo zen",
+    "author": "Eugen Herrigel",
+    "rating": 2.5,
+    "review": "Molto bella l'idea, poteva durare meno. Ricordo molto bene una frase: pensare nello stesso modo in cui il sole sorge o la pioggia cade",
+    "owner": "12",
+    "added_on": "2025-07-12T19:54:09",
+    "genere": "Filosofia"
+  },
+  {
+    "id": 1720815260008,
+    "title": "Il maestro e Margherita",
+    "author": "Michail Bulgakov",
+    "rating": 4.0,
+    "review": "La trama di questo romanzo è incredibile. Secondo me per apprezzarlo al massimo bisogna lasciar perdere qualsiasi ragionamento e pensiero razionale: il volo di margherita sulla scopa è stata la mia parte preferita. Ho apprezzato molto anche il fatto che non si capisca mai bene chi sta dalla parte buona e chi dall'altra. ",
+    "owner": "12",
+    "added_on": "2025-07-12T19:54:08",
+    "genere": "Narrativa straniera"
+  },
+  {
+    "id": 1720815260007,
+    "title": "Senza domani",
+    "author": "Fabrizio Silei",
+    "rating": 3.0,
+    "review": "",
+    "owner": "12",
+    "added_on": "2025-07-12T19:54:07",
+    "genere": "Narrativa italiana"
+  },
+  {
+    "id": 1720815260006,
+    "title": "Pinocchio",
+    "author": "Carlo Collodi",
+    "rating": 4.5,
+    "review": "",
+    "owner": "12",
+    "added_on": "2025-07-12T19:54:06",
+    "genere": "Narrativa italiana"
+  },
+  {
+    "id": 1720815260005,
+    "title": "Il ballo",
+    "author": "Irène Némirovsky",
+    "rating": 2.0,
+    "review": "",
+    "owner": "12",
+    "added_on": "2025-07-12T19:54:05",
+    "genere": "Narrativa straniera"
+  },
+  {
+    "id": 1720815260004,
+    "title": "Il vecchio che leggeva romanzi d’amore",
+    "author": "Luis Sepúlveda",
+    "rating": 4.0,
+    "review": "Super romantico, nel termine storico. Sepulveda introduce i suoi personaggi con una potenza descrittiva mai vista. Le descrizioni del ambiente e del clima mi hanno fatto viaggiare. Molto molto bello questo legame con l'amore romantico che si trova nei libri.",
+    "owner": "12",
+    "added_on": "2025-07-12T19:54:04",
+    "genere": "Narrativa straniera"
+  },
+  {
+    "id": 1720815260003,
+    "title": "Il piccolo principe",
+    "author": "Antoine de Saint-Exupéry",
+    "rating": 5.0,
+    "review": "Forse il libro più importante del nostro secolo. Incredibile come possa insegnare qualcosa di così bello a tutte le età",
+    "owner": "12",
+    "added_on": "2025-07-12T19:54:03",
+    "genere": "Narrativa straniera"
+  },
+  {
+    "id": 1720815260002,
+    "title": "Di tutte le bellezze",
+    "author": "Stefano Benni",
+    "rating": 2.5,
+    "review": "Un buon romanzo, mi ha fatto un po entrare nel mondo dell'anzianità, che spesso e considerato vuoto o privo di emozioni. E un mondo tranquillo, forse si, e in questo mondo l'autore ci porta molta fantasia ",
+    "owner": "12",
+    "added_on": "2025-07-12T19:54:02",
+    "genere": "Narrativa italiana"
+  },
+  {
+    "id": 1720815260001,
+    "title": "Il sentiero dei nidi di ragno",
+    "author": "Italo Calvino",
+    "rating": 4.0,
+    "review": "Il mio primo libro letto in assoluto, è stato bellissimo",
+    "owner": "12",
+    "added_on": "2025-07-12T19:54:01",
     "genere": "Narrativa italiana"
   },
   {
@@ -20,21 +980,16 @@
     "genere": "Narrativa straniera"
   },
   {
-    "id": 1720815260001,
-    "title": "Il sentiero dei nidi di ragno",
-    "author": "Italo Calvino",
-    "rating": 4.0,
-    "review": "Il mio primo libro letto in assoluto, è stato bellissimo",
+    "id": 1752347795,
+    "title": "L'amore prima di noi",
+    "author": "Paola Mastrocola",
+    "rating": 3.0,
+    "review": "Buon inizio per appassionarsi ai miti greci, il mio preferito è stato quello di orfeo e Euridice",
     "owner": "12",
-    "added_on": "2025-07-12T19:54:01",
+    "added_on": "2025-07-12T19:16:35.496968",
     "genere": "Narrativa italiana"
-  },
-  {
-    "id": 1720815260002,
-    "title": "Di tutte le bellezze",
-    "author": "Stefano Benni",
-    "rating": 2.5,
-    "review": "Un buon romanzo, mi ha fatto un po entrare nel mondo dell'anzianità, che spesso e considerato vuoto o privo di emozioni. E un mondo tranquillo, forse si, e in questo mondo l'autore ci porta molta fantasia ",
+  }
+]    "review": "Un buon romanzo, mi ha fatto un po entrare nel mondo dell'anzianità, che spesso e considerato vuoto o privo di emozioni. E un mondo tranquillo, forse si, e in questo mondo l'autore ci porta molta fantasia ",
     "owner": "12",
     "added_on": "2025-07-12T19:54:02",
     "genere": "Narrativa italiana"
