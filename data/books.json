@@ -1,5 +1,21 @@
 [
   {
+    "titolo": "Il mito di Sisifo",
+    "autore": "ALbert Camus",
+    "voto": 3.5,
+    "genere": "Filosofia",
+    "recensione": "",
+    "data": "2026-09-10"
+  },
+  {
+    "titolo": "L'esistenzialismo è un umanesimo",
+    "autore": "Jean-Paul Sartre",
+    "voto": 4,
+    "genere": "Filosofia",
+    "recensione": "",
+    "data": "2026-08-28"
+  },
+  {
     "titolo": "La salvezza del bello",
     "autore": "Byung-chul Han",
     "voto": 2.5,
