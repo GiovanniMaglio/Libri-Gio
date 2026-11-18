@@ -1,11 +1,27 @@
 [
   {
+    "titolo": "Una cosa divertente che non farò mai più",
+    "autore": " David Foster Wallace",
+    "voto": 1,
+    "genere": "Narrativa straniera",
+    "recensione": "Inutile",
+    "data": "2026-10-29"
+  },
+  {
+    "titolo": "Apologia di Socrate",
+    "autore": "Platone",
+    "voto": 4,
+    "genere": "Filosofia",
+    "recensione": "Nessuna recensione, non so cosa scrivere",
+    "data": "2026-10-16"
+  },  
+  {
     "titolo": "Cronoca di una morte annunciata",
     "autore": "Gabriel Garcia Marquéz",
     "voto": 4,
     "genere": "Narrativa straniera",
     "recensione": "Che bello",
-    "data": "2026-09-10"
+    "data": "2026-10-5"
   },
   {
     "titolo": "Il mito di Sisifo",
@@ -13,7 +29,7 @@
     "voto": 3.5,
     "genere": "Filosofia",
     "recensione": "",
-    "data": "2026-09-10"
+    "data": "2026-09-1"
   },
   {
     "titolo": "L'esistenzialismo è un umanesimo",
